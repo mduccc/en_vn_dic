@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  json_serializable: 
+  json_serializable: ^6.1.5
+  json_annotation: ^4.4.0
 
 dev_dependencies:
   flutter_test:
