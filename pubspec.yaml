@@ -1,7 +1,7 @@
 name: en_vi_dic
 description: A new Flutter package.
-version: 1.0.0
-repository: https://github.com/mduccc/flutter_calendar_week
+version: 1.0.1
+repository: https://github.com/mduccc/en_vn_dic
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
