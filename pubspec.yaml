@@ -1,6 +1,6 @@
 name: en_vi_dic
-description: A new Flutter package.
-version: 1.0.1
+description: English - Vietnam dictionary
+version: 1.0.2
 repository: https://github.com/mduccc/en_vn_dic
 
 environment:
